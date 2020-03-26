@@ -58,7 +58,8 @@
 - [gulp-wxa-copy-npm](https://github.com/mdsb100/gulp-wxa-copy-npm) - 微信小程序 gulp 插件，解决 npm 包管理和 babel-runtime
 - [weact](https://github.com/haojy/weact) - 用 JSX 快速开发小程序
 - [socket.io-mp-client](https://github.com/cytle/socket.io-mp-client) - 微信小程序 socket.io 客户端
-- [wxa](https://github.com/Genuifx/wxa) - 方便的小程序开发框架
+- [@wxa](https://wxajs.github.io/wxa/) - AOP小程序开发框架
+- [postcss-pxtorpx-pro](https://github.com/Genuifx/postcss-pxtorpx-pro) - postcss px 转 rpx 插件
 - [px2rpx](https://github.com/allanguys/px2rpx) - Px 转 Rpx 在线工具
 - [wxml-parser](https://github.com/seanlong/wxml-parser) -  JavaScript WXML parser
 - [weappx](https://github.com/tolerance-go/weappx) - 基于 redux 的数据层管理框架
@@ -247,4 +248,5 @@
 - [yociduo/scrum-planning-poker](https://github.com/yociduo/scrum-planning-poker) - Scrum敏捷估算,基于wepy构建
 - [lsqy/taro-music](https://github.com/lsqy/taro-music) - 🎉基于taro + taro-ui + redux + typescript 开发的网易云音乐小程序
 - [仿喜马拉雅lite](https://github.com/Notobey/Himalayan-lite) - 微信小程序原生开发的仿喜马拉雅小程序（极度适合新手入门）
+- [branliang/game-stop-app](https://github.com/BranLiang/game-stop-app) - PSN降价了（一个可以订阅PS4游戏价格的工具）
 [↑ 返回目录 ↑](#目录)
