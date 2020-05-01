@@ -6,7 +6,7 @@
 
 如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡：
 
-<p align="center"><img src="./buy-me-a-coffee-wechat.png" width="320" height="320" alt="" /></p>
+<p align="center"><img src="https://cdn.devtips.cn/buy-me-a-coffee-wechat.png?imageView2/2/w/320/interlace/1" width="320" height="320" alt="" /></p>
 
 ## QQ交流群
 
@@ -110,6 +110,7 @@
 - [iview-weapp ★5.5k+](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
 - [wux-weapp ★4.2k+](https://github.com/wux-weapp/wux-weapp) - 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 - [wx-charts ★4.1k+](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表 charts 组件
+- [Lin UI ★1.5k+](https://github.com/TaleLin/lin-ui) - 一套设计优良、基于原生微信小程序语法的 UI 组件库
 - [wemark ★1.100+](https://github.com/TooBug/wemark) - 微信小程序 Markdown 渲染库
 - [wxapp-img-loader ★400+](https://github.com/o2team/wxapp-img-loader) - 微信小程序图片预加载组件
 - [we-cropper ★400+](https://github.com/we-plugin/we-cropper) -  微信小程序图片裁剪工具
@@ -160,6 +161,7 @@
 - [sol-weapp ★300+](https://github.com/sunniejs/sol-weapp/) -微信小程序营销组件:红包雨、大转盘等营销组件
 - [weapp-input-frame](https://github.com/xjh22222228/weapp-input-frame) - 微信小程序验证码输入框组件
 - [we-debug](https://github.com/dlhandsome/we-debug) - 一款灵活、易于拓展的微信小程序调试工具
+- [weapp-qrcode](https://github.com/tomfriwel/weapp-qrcode) - 微信小程序生成二维码工具
 
 [↑ 返回目录 ↑](#目录)
 
